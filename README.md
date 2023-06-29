@@ -3,6 +3,7 @@
 This is a project from a University course in Data Analysis
 
 The data sets to be used for the work are provided by the UCI Machine Learning Repository (https://archive.ics.uci.edu/).
+The Mammographic Mass Data Set (https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass) is used.
 
 The data set was categorized based on:
 
