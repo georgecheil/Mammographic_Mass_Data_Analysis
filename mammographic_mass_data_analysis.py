@@ -245,9 +245,4 @@ Stochastic Gradient Descent Classification accuracy:  0.80
 
 Random Forest Classification accuracy: 0.81 (παρατηρήθηκαν και κάποιες αποκλίσεις)
 
-Χειλαδάκης Γεώργιος
-
-E20188
-
-george.chiladakis@gmail.com
 """
